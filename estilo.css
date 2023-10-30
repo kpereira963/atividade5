@@ -1,0 +1,57 @@
+
+        body {
+            background-image: url('https://img.freepik.com/fotos-gratis/parceiros-de-negocios-aperto-de-mao-global-corporativo-com-conceito-de-tecnologia_53876-102615.jpg?size=626&ext=jpg&ga=GA1.1.1413502914.1696896000&semt=ais');
+            background-size: cover;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            
+        }
+        h1 {
+            text-align: center;
+        }
+        nav {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        nav a {
+            text-decoration: none;
+            margin: 0 10px;
+        }
+        form {
+            background-color: rgba(255, 255, 255, 0.8);
+            padding: 20px;
+            border-radius: 10px;
+            width: 400px;
+            margin: 0 auto;
+        }
+        label {
+            display: block;
+            margin-top: 10px;
+        }
+        input, select {
+            width: 100%;
+            padding: 5px;
+            margin-bottom: 10px;
+        }
+        select {
+            width: 100%;
+        }
+        input[type="radio"] {
+            margin: 5px;
+        }
+        button {
+            width: 100%;
+            padding: 10px;
+            background-color: #0077b6;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        footer {
+            text-align: center;
+            color: #000;
+            padding: 10px;
+        }
+    
